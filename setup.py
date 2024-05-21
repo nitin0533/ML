@@ -16,6 +16,4 @@ setup(
     author_email='nitiniyer.95@gmail.com',
     packages=find_packages(),
     install_requires= get_requirements('requirement.txt')
-    
-
 )
